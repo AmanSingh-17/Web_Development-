@@ -1,0 +1,19 @@
+.subline{
+    margin-bottom: 100px;
+    margin-left: 20px;
+    width: 100%;
+    height: 950px;
+    color: rgb(38, 38, 6);
+}
+.main{
+    width: 100%;
+    height: 35px;
+    margin-left: 20px;
+}
+.col{
+    background-color: rgb(253, 213, 185)
+}
+.na{
+    margin-left: 500px;
+   
+}
